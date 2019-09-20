@@ -1,2 +1,27 @@
-# revisao-prova-1b
-Revisão da Prova do Primeiro Bimestre
+# Revisão da Prova de Desenvolvimento de Aplicação
+
+- Paradigmas de Programação
+    - Procedural
+    - Orientado a Objetos
+- Linguagem de Marcação HTML
+    - Tags em geral
+    - Formulario
+    - Inputs
+    - Atributos de tags
+- Conhecimento basico em PHP
+    - Ambiente da Linguagem
+    - Declaração de Variaveis
+    - Implementação de Algoritmos em PHP
+    - Funções
+    - Inclusão de Arquivo
+    - Implementação de POO em PHP
+- Conhecimentos Basicos em POO
+    - Classe
+    - Objeto
+    - Visibilidade
+    - Atributo
+    - Métodos
+    - Implementaçao simples de classes
+    - Herança
+    - Encapsulamento
+    - Injeção de Dependencia 
